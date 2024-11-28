@@ -1,11 +1,11 @@
 ---
 layout: home
-title: Just the Class
+title: Technical Foundation and MVP Resources
 nav_exclude: true
 permalink: /:path/
 seo:
   type: Course
-  name: Just the Class
+  name: Engin 183C Technical Foundation and MVP Resources
 ---
 
 # Entrepreneurialism Technical Foundation and MVP Resources
