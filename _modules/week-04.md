@@ -1,5 +1,5 @@
 ---
-title: GPT Code Generation
+title: API Integration
 ---
 
 Oct 5

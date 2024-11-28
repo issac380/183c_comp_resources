@@ -19,24 +19,25 @@ Navigate to the Modules section (on the sidebar) and complete exercises that are
 
 ## Structure of Resources
 ### **1. Introduction to Software Development**
-- **What is a Full-Stack Application?**
-- **Tool Setup:** Guides for installing IDEs, creating OpenAI accounts, and building your first application.
+- **Compoenents of an Application?**
+- **Tool Setup:** Guides for installing IDEs, creating OpenAI accounts and tokens, and building your first application.
 
 ### **2. GPT Code Generation**
 - **Using GPT for Software Development:** Generate code snippets, debug issues, and comprehend existing code.
 - **Advanced Prompting:** Break down complex tasks into manageable steps with effective GPT prompts.
 
-### **3. Front-End Development**
-- **UI Design with Figma:** Learn to design user interfaces and convert them into functional code.
-- **Creating Endpoints with GPT:** Build a simple website that communicates with a back-end service.
-
-### **4. API Integration**
+### **3. Introduction to LLMs and API Integration**
+- **Large Language Models:** Basic understanding of LLMs, including system prompts and fine-tuning.
 - **OpenAI API Integration:** Incorporate GPT for use cases like chatbots or mood analysis applications.
 - **Exercise:** Build a mood analysis app using GPT prompts.
 
-### **5. Backend Development**
+### **4. Backend Development**
 - **Conceptual Database Basics:** Learn fundamental concepts of database design.
 - **Exercise:** Create interactive front-end functionality by integrating back-end endpoints and API calls.
+
+### **5. Front-End Development**
+- **UI Design with Figma:** Learn to design user interfaces and convert them into functional code.
+- **Creating Endpoints with GPT:** Build a simple website that communicates with a back-end service.
 
 ### **6. Deployment and Scaling**
 - **Deployment Strategies:** Explore local and cloud deployment methodologies.

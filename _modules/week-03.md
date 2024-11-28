@@ -1,5 +1,5 @@
 ---
-title: GPT Code Generation
+title: Front-End Development
 ---
 
 Oct 5
