@@ -1,6 +1,7 @@
 ---
 title: Setup
 layout: default
+nav_exclude: true
 ---
 
 # Setup
