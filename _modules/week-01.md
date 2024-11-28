@@ -2,22 +2,9 @@
 title: Introduction to Software Development
 ---
 
-Sep 28
-: [Java & Git](#)
-  : [1.1](#)
+Read
+: [Compoenents of an Application](#)
 
-Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
-
-Sep 30
-: [Variables & Objects](#)
-  : [1.2](#), [2.1](#)
-
-Oct 1
-: **Lab**{: .label .label-purple } [Intro to Java](#)
-
-Oct 2
-: [Tracing, IntLists, & Recursion](#)
-  : [2.1](#)
-: **HW 1 due**{: .label .label-red }
+Activity
+: **Section**{: .label .label-purple }[Setup](/resources/setup.html)
+  : [VSCode](https://code.visualstudio.com/download), [OpenAI Playground](https://platform.openai.com/playground/)

@@ -1,5 +1,5 @@
 ---
-title: Front-End Development
+title: Introduction to LLMs and API Integration
 ---
 
 Oct 5
