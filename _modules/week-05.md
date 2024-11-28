@@ -1,23 +1,16 @@
 ---
-title: Backend Development
+title: Front-End Development
 ---
 
-Oct 5
-: [Linked Lists & Encapsulation](#)
-  : [3.1](#), [2.2](#), [2.3](#)
+## Read
+- [UI Design Basics](#)
+- [Using Figma for UI Design](https://www.figma.com/)
+- [Connecting Front-End to Back-End](#)
 
-Oct 6
-: **Section**{: .label .label-purple }[Linked Lists](#)
-  : [Solution](#)
+## Activity
+**Section**{: .label .label-purple } [UI Design](#)
+: [Try Figma](https://www.figma.com/), [Converting Designs to Code](#)
 
-Oct 7
-: [Resizing Arrays](#)
-  : [2.4](#), [2.5](#)
-
-Oct 8
-: **Lab**{: .label .label-purple } [Resizing Arrays](#)
-
-Oct 9
-: [Runtime Analysis](#)
-  : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
-: **HW 2 due**{: .label .label-red }
+**Exercise**
+- Design a simple webpage in Figma and implement it using HTML, CSS, and JavaScript.
+- Integrate back-end APIs to create dynamic functionality.

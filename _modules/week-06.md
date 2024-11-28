@@ -2,22 +2,15 @@
 title: Deployment and Scaling
 ---
 
-Oct 5
-: [Linked Lists & Encapsulation](#)
-  : [3.1](#), [2.2](#), [2.3](#)
+## Read
+- [Deployment Strategies: Local vs Cloud](#)
+- [Introduction to Kubernetes (k8s)](#)
+- [Scaling Considerations and Best Practices](#)
 
-Oct 6
-: **Section**{: .label .label-purple }[Linked Lists](#)
-  : [Solution](#)
+## Activity
+**Section**{: .label .label-purple } [Deployment Basics](#)
+: [Explore Heroku](https://www.heroku.com/), [AWS EC2 Setup](https://aws.amazon.com/ec2/), [Introduction to Kubernetes](https://kubernetes.io/docs/tutorials/)
 
-Oct 7
-: [Resizing Arrays](#)
-  : [2.4](#), [2.5](#)
-
-Oct 8
-: **Lab**{: .label .label-purple } [Resizing Arrays](#)
-
-Oct 9
-: [Runtime Analysis](#)
-  : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
-: **HW 2 due**{: .label .label-red }
+**Exercise**
+- Deploy your project locally and on a cloud platform like Heroku or AWS.
+- Practice using Kubernetes for container orchestration.

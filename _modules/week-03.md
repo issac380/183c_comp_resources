@@ -2,22 +2,13 @@
 title: Introduction to LLMs and API Integration
 ---
 
-Oct 5
-: [Linked Lists & Encapsulation](#)
-  : [3.1](#), [2.2](#), [2.3](#)
+## Read
+- [Introduction to Large Language Models (LLMs)](#)
+- [OpenAI API Integration](#)
 
-Oct 6
-: **Section**{: .label .label-purple }[Linked Lists](#)
-  : [Solution](#)
+## Activity
+**Section**{: .label .label-purple } [LLM Basics](#)
+: [Understanding System Prompts](#), [OpenAI API Keys Setup](https://platform.openai.com/account/api-keys)
 
-Oct 7
-: [Resizing Arrays](#)
-  : [2.4](#), [2.5](#)
-
-Oct 8
-: **Lab**{: .label .label-purple } [Resizing Arrays](#)
-
-Oct 9
-: [Runtime Analysis](#)
-  : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
-: **HW 2 due**{: .label .label-red }
+**Exercise**
+- Build a mood analysis app: Use GPT to analyze text sentiment. Refer to [API Usage](https://platform.openai.com/docs/api-reference).
