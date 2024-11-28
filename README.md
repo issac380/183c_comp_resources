@@ -8,32 +8,33 @@ seo:
   name: Just the Class
 ---
 
-# Just the Class
+# Entrepreneurialism Technical Foundation and MVP Resources
 
-Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
+## Overview
 
-- [announcements](announcements.md),
-- a [course calendar](calendar.md),
-- a [staff](staff.md) page,
-- and a weekly [schedule](schedule.md).
+This website contains a comprehensive guide aimed at empowering challenge lab teams and individuals with the technical foundation required to build **Minimum Viable Products (MVPs)**. Whether you're a non-technical participant or someone seeking to expand your software development skills and learn about using Large Language Models, these resources will guide you step-by-step through the essential concepts and practical exercises needed to create full-stack applications.
 
-Just the Class is a template that extends the popular [Just the Docs](https://github.com/just-the-docs/just-the-docs) theme, which provides a robust and thoroughly-tested foundation for your website. Just the Docs include features such as:
+## Structure of Resources
+### **1. Introduction to Software Development**
+- **What is a Full-Stack Application?**
+- **Tool Setup:** Guides for installing IDEs, creating OpenAI accounts, and building your first application.
 
-- automatic [navigation structure](https://just-the-docs.github.io/just-the-docs/docs/navigation-structure/),
-- instant, full-text [search](https://just-the-docs.github.io/just-the-docs/docs/search/) and page indexing,
-- and a set of [UI components](https://just-the-docs.github.io/just-the-docs/docs/ui-components) and authoring [utilities](https://just-the-docs.github.io/just-the-docs/docs/utilities).
+### **2. GPT Code Generation**
+- **Using GPT for Software Development:** Generate code snippets, debug issues, and comprehend existing code.
+- **Advanced Prompting:** Break down complex tasks into manageable steps with effective GPT prompts.
 
-## Getting Started
+### **3. Front-End Development**
+- **UI Design with Figma:** Learn to design user interfaces and convert them into functional code.
+- **Creating Endpoints with GPT:** Build a simple website that communicates with a back-end service.
 
-Getting started with Just the Class is simple.
+### **4. API Integration**
+- **OpenAI API Integration:** Incorporate GPT for use cases like chatbots or mood analysis applications.
+- **Exercise:** Build a mood analysis app using GPT prompts.
 
-1. Create a [new repository based on Just the Class](https://github.com/kevinlin1/just-the-class/generate).
-1. Update `_config.yml` and `README.md` with your course information. [Be sure to update the url and baseurl](https://mademistakes.com/mastering-jekyll/site-url-baseurl/).
-1. Configure a [publishing source for GitHub Pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages). Your course website is now live!
-1. Edit and create `.md` [Markdown files](https://guides.github.com/features/mastering-markdown/) to add more content pages.
+### **5. Backend Development**
+- **Conceptual Database Basics:** Learn fundamental concepts of database design.
+- **Exercise:** Create interactive front-end functionality by integrating back-end endpoints and API calls.
 
-Just the Class has been used by instructors at Stanford University ([CS 161](https://stanford-cs161.github.io/winter2021/)), UC Berkeley ([Data 100](https://ds100.org/fa21/)), UC Santa Barbara ([CSW8](https://ucsb-csw8.github.io/s22/)), Northeastern University ([CS4530/5500](https://neu-se.github.io/CS4530-CS5500-Spring-2021/)), and Carnegie Mellon University ([17-450/17-950](https://cmu-crafting-software.github.io/)). Share your course website and find more examples in the [show and tell discussion](https://github.com/kevinlin1/just-the-class/discussions/categories/show-and-tell)!
-
-### Local development environment
-
-Just the Class requires no special Jekyll plugins and can run on GitHub Pages' standard Jekyll compiler. To setup a local development environment, clone your template repository and follow the GitHub Docs on [Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
+### **6. Deployment and Scaling**
+- **Deployment Strategies:** Explore local and cloud deployment methodologies.
+- **Scaling Considerations:** Understand tools like Kubernetes (k8s) and EC2, and tackle architectural challenges like data races.
