@@ -3,10 +3,10 @@ title: Backend Development
 ---
 
 Read
-: [Database Basics](#)
+: [Backend]({{ site.baseurl }}/resources/week4/backend)
+
+Read
+: [Database Basics]({{ site.baseurl }}/resources/week4/database)
 
 Activity
-: **Proejct**{: .label .label-red } [Integrating APIs with Back-End](#)
-
-Activity
-: **Proejct**{: .label .label-red } [Integrating Database with Back-End](#)
+: **Proejct**{: .label .label-red } [Integrating Database with Back-End]({{ site.baseurl }}/resources/week4/db_integration)

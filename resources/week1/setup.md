@@ -8,7 +8,6 @@ nav_exclude: true
 
 This guide walks you through the essential setup process for your project, including installing tools, creating accounts, and configuring tokens.
 
----
 
 ## Downloading VSCode
 
@@ -22,7 +21,6 @@ This guide walks you through the essential setup process for your project, inclu
 5. Once installed, open VSCode and explore its extensions to enhance your development environment:
    - Install extensions like **Python**, **Markdown Preview**, and **GitLens**.
 
----
 
 ## Downloading Python
 
@@ -41,7 +39,6 @@ Python is a versatile programming language widely used for scripting and buildin
      ```
    - You should see the installed version of Python displayed.
 
----
 
 ## Creating an OpenAI Account
 
@@ -53,7 +50,6 @@ To use OpenAI's APIs, you'll need an account on their platform.
 3. Verify your email and complete the onboarding steps.
 4. Once signed in, you’ll land on the OpenAI dashboard, where you can manage your API keys and usage.
 
----
 
 ## Creating Tokens
 
@@ -72,6 +68,5 @@ API tokens are required to authenticate and interact with OpenAI's services.
    - Never share your token publicly.
    - Avoid committing it to version control (e.g., GitHub).
 
----
 
 With these steps complete, you’re ready to start using the tools and services necessary for your project. Proceed to the next section to begin coding and integrating APIs!
