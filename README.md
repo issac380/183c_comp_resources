@@ -24,7 +24,7 @@ Navigate to the Modules section (on the sidebar) and complete exercises that are
 
 ### **2. GPT Code Generation**
 - **Using GPT for Software Development:** Generate code snippets, debug issues, and comprehend existing code.
-- **Advanced Prompting:** Break down complex tasks into manageable steps with effective GPT prompts.
+- **Prompt Engineering:** Break down complex tasks into manageable steps with effective GPT prompts.
 
 ### **3. Introduction to LLMs and API Integration**
 - **Large Language Models:** Basic understanding of LLMs, including system prompts and fine-tuning.

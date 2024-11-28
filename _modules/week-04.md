@@ -2,13 +2,11 @@
 title: Backend Development
 ---
 
-## Read
-- [Conceptual Database Basics](#)
-- [Integrating APIs with Back-End](#)
+Read
+: [Database Basics](#)
 
-## Activity
-**Section**{: .label .label-purple } [Database Design](#)
-: [Basics of Relational Databases](https://www.postgresql.org/docs/), [NoSQL Overview](https://www.mongodb.com/nosql-explained)
+Activity
+: **Proejct**{: .label .label-red } [Integrating APIs with Back-End](#)
 
-**Exercise**
-- Connect your front-end to a simple back-end API to display user-input data dynamically.
+Activity
+: **Proejct**{: .label .label-red } [Integrating Database with Back-End](#)

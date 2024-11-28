@@ -2,11 +2,13 @@
 title: GPT Code Generation
 ---
 
-## Read
-- [Using GPT for Software Development](#)
-- [Advanced Prompting](#)
+Read
+: [Using GPT for Software Development](#)
 
-## Activity
-**Section**{: .label .label-purple } [Learn to Use GPT](#)
-: [OpenAI API Documentation](https://platform.openai.com/docs), [Example Prompts](#)
+Read
+: [Prompt Engineering](#)
+
+Activity
+: **Exercise**{: .label .label-blue } [Generating code with ChatGPT](#)
+: [OpenAI API Documentation](https://platform.openai.com/docs)
 
