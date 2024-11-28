@@ -6,5 +6,5 @@ Read
 : [Compoenents of an Application](#)
 
 Activity
-: **Setup**{: .label .label-purple }[Environments, Tools]({{ site.baseurl }}/_resources/setup)
+: **Setup**{: .label .label-purple }[Environments, Tools]({{ site.baseurl }}/resources/setup)
 : [VSCode](https://code.visualstudio.com/download), [OpenAI Playground](https://platform.openai.com/playground/)
