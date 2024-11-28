@@ -14,6 +14,9 @@ seo:
 
 This website contains a comprehensive guide aimed at empowering challenge lab teams and individuals with the technical foundation required to build **Minimum Viable Products (MVPs)**. Whether you're a non-technical participant or someone seeking to expand your software development skills and learn about using Large Language Models, these resources will guide you step-by-step through the essential concepts and practical exercises needed to create full-stack applications.
 
+## Usage
+Navigate to the Modules section (on the sidebar) and complete exercises that are important to you.
+
 ## Structure of Resources
 ### **1. Introduction to Software Development**
 - **What is a Full-Stack Application?**
